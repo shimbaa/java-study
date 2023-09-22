@@ -3,4 +3,4 @@
 
 ---
 
-### [자바의 메모리 영역](https://www.notion.so/dc13592c29d44352ac4189acb5cdd0d9)
+### [자바의 메모리 영역](https://inpa.tistory.com/entry/JAVA-☕-그림으로-보는-자바-코드의-메모리-영역스택-힙)
